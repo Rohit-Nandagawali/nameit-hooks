@@ -27,9 +27,14 @@ Library used to generate random startup names
 
 ## How to run this app
 
-1. `git clone git clone https://github.com/Rohit-Nandagawali/nameit-hooks`
-2. `npm install`
-3. `npm start`
+1. Clone the repository 
+ ```git clone git clone https://github.com/Rohit-Nandagawali/nameit-hooks```
+ 
+2. Install all the required packages 
+```npm install```
+
+3.Run the project
+```npm start```
 
 ## Special Thanks
 
